@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Prasad Kasar",
+    "label": "",
+    "picture": "",
+    "email": "prasadkasar91@gmail.com",
+    "phone": "(+91)-8796494805",
+    "degree": "B.E(Electrical)",
+    "website": "Your website URL",
+    "summary": "I am Software developer working in Cognizant from last 3 years ",
+    "location": {
+      "address": "At/Post-Karanji BK, Tal-Kopargaon, Dist-Ahmadnagar",
+      "postalCode": "423603",
+      "city": "Kopargaon",
+      "countryCode": "India(+91)",
+      "state": "Maharashtra"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Prasad Kasar",
+        "url": "https://www.linkedin.com/in/prasad-kasar/-685733"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cognizant",
+      "position": "Tech Lead",
+      "website": "www.onecognizant.com",
+      "startDate": "2018/12/07",
+      "endDate": "",
+      "summary": "Working as an Associate on Japanese Projects",
+      "highlights": [
+        "JCL,COBOL, DB2"
+      ]
+    }
+  ],
+ 
+  "education": [
+    {
+      "institution": "Amrutvahini College of Enginnering, Sangamner",
+      "area": "Electrical",
+      "studyType": "",
+      "startDate": "2014/06/15",
+      "endDate": "2018/06/15",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+ 
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        HTML, CSS, JavaScript, ReactJs
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English, Hindi, Marathi",
+      "fluency": "High"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports, Watching movies",
+      "keywords": [
+        Cricket, Movies(Pushpa, 83, Drishyam)
+      ]
+    }
+  ]
+}
